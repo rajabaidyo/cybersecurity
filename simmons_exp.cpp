@@ -1,4 +1,4 @@
-/* code for Simmons_cipher by Raja Baidyo */
+/* code for Simmons_cipher frequency analysis*/
 
 #include<bits/stdc++.h>
 using namespace std;
